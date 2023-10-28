@@ -1,0 +1,5 @@
+0 ?blue violet?IDLE
+1 CHECK_ADDR
+2 ?brown4?RECEIVE_DATA
+3 SEND_ACK
+4 DONE
