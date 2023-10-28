@@ -1,1 +1,1 @@
-[Статья про применение тфильтров в GTKWave](gtkwave-filters.org)
+[Статья про применение фильтров в GTKWave](gtkwave-filters.org)
